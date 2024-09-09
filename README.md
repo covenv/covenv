@@ -1,3 +1,3 @@
 # Amber
-nvim btw
+nvim btw  
 arch btw
