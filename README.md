@@ -1,2 +1,1 @@
-I like bash, python, scheme and rust  
-I also run linux servers
+python, rust, scheme, bash
