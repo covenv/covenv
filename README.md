@@ -1,1 +1,1 @@
-python, rust, scheme, bash
+nvim btw
